@@ -1,5 +1,5 @@
 class Solution {
-public:
+public
     string addBinary(string a, string b) {
         string res = "";
         int carry = 0, i = a.length()-1, j = b.length()-1;
